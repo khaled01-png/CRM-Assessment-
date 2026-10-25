@@ -1,4 +1,5 @@
 CRM Realm Technical Assessment
+
 This repository contains my submission for the Junior Software Engineer Intern technical assessment. The work is split into three parts a Java console application, JavaScript functions with tests, and SQL queries.
 Project structure
  java/Lead.java — the Lead record used to hold a lead's name, email, and score.
